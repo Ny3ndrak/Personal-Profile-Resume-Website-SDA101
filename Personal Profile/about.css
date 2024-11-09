@@ -1,0 +1,248 @@
+*{
+	text-decoration: none;
+}
+
+.hero { 
+	overflow:hidden;
+}
+.e70_62 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1280px;
+	height:830px;
+	position:absolute;
+}
+.about { 
+	background-color:rgba(177.0000046491623, 198.00000339746475, 219.0000021457672, 1);
+	width:1280px;
+	height:828px;
+	position:absolute;
+	left:-6px;
+	top:2px;
+}
+.img { 
+	width:350px;
+	height:424px;
+	position:absolute;
+	left:554px;
+	top:172px;
+	border-top-left-radius:57px;
+	border-top-right-radius:57px;
+	border-bottom-left-radius:57px;
+	border-bottom-right-radius:57px;
+}
+.ab { 
+	color:rgba(201.75325959920883, 200.63242614269257, 200.63242614269257, 1);
+	width:297px;
+	height:72px;
+	position:absolute;
+	left: 554px;
+	top:511px;
+	font-family:Abhaya Libre ExtraBold;
+	font-size:48px;
+	letter-spacing:0;
+}
+.circle { 
+	border-radius:500px;
+	background-color:rgba(164.00000542402267, 189.00000393390656, 219.0000021457672, 1);
+	width:92px;
+	height:90px;
+	position:absolute;
+	left:98px;
+	top:207px;
+}
+.bg { 
+	color:rgba(0, 0, 0, 1);
+	width:158px;
+	height:24px;
+	position:absolute;
+	left:129px;
+	top:240px;
+	font-family:Abhaya Libre SemiBold;
+	text-align:center;
+	font-size:20px;
+	letter-spacing:0;
+}
+
+.bio { 
+	color:rgba(0, 0, 0, 1);
+	width:32px;
+	height:24px;
+	position:absolute;
+	left:984px;
+	top:300px;
+	font-family:Abhaya Libre SemiBold;
+	text-align:center;
+	font-size:20px;
+}
+.description { 
+	color:rgba(0, 0, 0, 1);
+	width:431px;
+	height:202px;
+	position:absolute;
+	left:50px;
+	top:302px;
+	font-family:Abhaya Libre Medium;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+.name { 
+	color:rgba(0, 0, 0, 1);
+	width:236px;
+	height:87px;
+	position:absolute;
+	left:926px;
+	top:349px;
+	text-align:left;
+	font-size:15px;
+	letter-spacing:0;
+}
+
+.a { 
+	width:1195px;
+	height:168px;
+	position:absolute;
+	left:-21px;
+	top:623px;
+}
+
+.contactno { 
+	color:rgba(0, 0, 0, 1);
+	width:126.09326171875px;
+	height:16.133333206176758px;
+	position:absolute;
+	left:26px;
+	top:0px;
+	font-family:Pridi;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+.links { 
+	width:1217px;
+	height:168px;
+	position:absolute;
+}
+.socials { 
+	width:173.4631805419922px;
+	height:28.687957763671875px;
+	position:absolute;
+	left:79.03430938720703px;
+	top:20.722829818725586px;
+}
+.facebook { 
+	width:34.48771667480469px;
+	height:28.687957763671875px;
+	position:absolute;
+	left:69.48779296875px;
+	top:0px;
+}
+
+.icon { 
+	
+	position:absolute;
+	left:2.8333332538604736px;
+	top:4.666666507720947px;
+	background-color:rgba(29.000000171363354, 27.000000290572643, 32.00000189244747, 1);
+}
+.instagram { 
+	position:absolute;
+
+}
+
+.github { 
+	position:absolute;
+	left:138px;
+	top:0px;
+}
+
+.contact { 
+	width:261.6787109375px;
+	height:86px;
+	position:absolute;
+	left:79px;
+	top:84px;
+}
+.phone { 
+	position:absolute;
+}
+
+.mail { 
+	width:34px;
+	height:28px;
+	position:absolute;
+	left:0px;
+	top:39px;
+}
+.personalmail { 
+	color:rgba(0, 0, 0, 1);
+	width:200px;
+	height:59px;
+	position:absolute;
+	left:36px;
+	font-family:Pridi;
+	text-align:center;
+	font-size:16px;
+}
+.collegemail { 
+	color:rgba(0, 0, 0, 1);
+	width:241.6787109375px;
+	height:10.755555152893066px;
+	position:absolute;
+	left:20px;
+	top:20px;
+	font-family:Pridi;
+	text-align:center;
+	font-size:16px;
+	letter-spacing:0;
+}
+
+.nav { 
+	width:1132px;
+	height:33px;
+	position:absolute;
+	left:59px;
+	top:42px;
+}
+.PP { 
+	color:rgba(0, 0, 0, 1);
+	width:231px;
+	height:29px;
+	position:absolute;
+	left:545px;
+	top:4px;
+	font-family:Inter;
+	font-size:24px;
+	letter-spacing:0;
+}
+.home{
+	font-size: 28px;
+	
+}
+.abo { 
+	position:absolute;
+	left:107px;
+	top:8px;
+	font-family:Inter;
+	font-size:20px;
+	letter-spacing:0;
+}
+.pro { 
+	position:absolute;
+	left:239px;
+	top:8px;
+	font-family:Inter;
+	font-size:20px;
+	letter-spacing:0;
+}
+.nth{ 
+	color:rgb(0, 0, 0);
+	width:151px;
+	height:24px;
+	position:absolute;
+	left:981px;
+	font-family:Inter;
+	font-size:20px;
+	letter-spacing:0;
+}
+
