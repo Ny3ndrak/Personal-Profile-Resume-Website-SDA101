@@ -108,8 +108,8 @@
 
 .contactno { 
 	color:rgba(0, 0, 0, 1);
-	width:126.09326171875px;
-	height:16.133333206176758px;
+	width:126px;
+	height:16px;
 	position:absolute;
 	left:26px;
 	top:0px;
@@ -124,25 +124,25 @@
 	position:absolute;
 }
 .socials { 
-	width:173.4631805419922px;
-	height:28.687957763671875px;
+	width:173px;
+	height:28px;
 	position:absolute;
-	left:79.03430938720703px;
-	top:20.722829818725586px;
+	left:79px;
+	top:20px;
 }
 .facebook { 
-	width:34.48771667480469px;
-	height:28.687957763671875px;
+	width:34px;
+	height:28px;
 	position:absolute;
-	left:69.48779296875px;
+	left:69px;
 	top:0px;
 }
 
 .icon { 
 	
 	position:absolute;
-	left:2.8333332538604736px;
-	top:4.666666507720947px;
+	left:2px;
+	top:4px;
 	background-color:rgba(29.000000171363354, 27.000000290572643, 32.00000189244747, 1);
 }
 .instagram { 
@@ -157,7 +157,7 @@
 }
 
 .contact { 
-	width:261.6787109375px;
+	width:261px;
 	height:86px;
 	position:absolute;
 	left:79px;
@@ -186,8 +186,8 @@
 }
 .collegemail { 
 	color:rgba(0, 0, 0, 1);
-	width:241.6787109375px;
-	height:10.755555152893066px;
+	width:241px;
+	height:10px;
 	position:absolute;
 	left:20px;
 	top:20px;
@@ -198,6 +198,7 @@
 }
 
 .nav { 
+	color: black;
 	width:1132px;
 	height:33px;
 	position:absolute;
@@ -246,3 +247,6 @@
 	letter-spacing:0;
 }
 
+.nav.a.button:hover {
+	background-color: aquamarine;
+}

@@ -1,6 +1,7 @@
 *{
   background-color: #d1e3f1;
-  text-decoration: none;
+	font-family:Abhaya Libre ExtraBold;
+  text-decoration:none;
 }
   
   
@@ -68,8 +69,8 @@
   
   .HOME .flexcontainer {
     display: flex;
+    text-decoration: none;
     flex-direction: column;
-    align-items: flex-start;
     gap: 5px;
     position: absolute;
     width: 208px;
@@ -348,4 +349,7 @@
   .group{
     letter-spacing: 10px;
   }
-  
+
+  .nav.a.button:hover {
+    background-color: aquamarine;
+  }
