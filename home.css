@@ -1,3 +1,122 @@
+@media (max-width: 767px) {
+  .HOME .overlap-wrapper {
+      width: 100%;
+      height: auto;
+      padding: 10px;
+  }
+
+  .HOME .overlap {
+      height: auto;
+      background-size: cover;
+  }
+
+  .HOME .overlap-group {
+      width: 100%;
+      height: auto;
+      top: auto;
+      left: auto;
+      padding: 20px;
+  }
+
+  .HOME .div {
+      width: 100%;
+      height: auto;
+  }
+
+  .HOME .image {
+      width: 100%;
+      height: auto;
+      left: auto;
+      top: auto;
+  }
+
+  .HOME .text-wrapper {
+      width: 100%;
+      top: 10px;
+      font-size: 14px;
+  }
+
+  .HOME .ellipse {
+      display: none;
+  }
+
+  .HOME .flexcontainer {
+      width: 100%;
+      height: auto;
+      top: auto;
+      left: auto;
+      align-items: center;
+  }
+
+  .HOME .text {
+      font-size: 14px;
+  }
+
+  .HOME .text-wrapper-2 {
+      width: 100%;
+      top: auto;
+      left: auto;
+      font-size: 12px;
+  }
+
+  .HOME .arrow {
+      width: 50px;
+      height: 50px;
+      top: auto;
+      left: auto;
+  }
+
+  .HOME .arrow-forward {
+      width: 20px;
+      height: 20px;
+  }
+
+  .HOME .socials {
+      width: 100%;
+      height: auto;
+      top: auto;
+      left: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .HOME .group {
+      width: 100%;
+      height: auto;
+      top: auto;
+      left: auto;
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+
+  .HOME .header {
+      width: 100%;
+      height: auto;
+      top: auto;
+      left: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+  }
+
+  .HOME .text-wrapper-6,
+  .HOME .text-wrapper-7,
+  .HOME .text-wrapper-8,
+  .HOME .text-wrapper-9,
+  .HOME .text-wrapper-10 {
+      font-size: 16px;
+      margin: 5px 0;
+  }
+
+  .nav.a.button {
+      font-size: 16px;
+      padding: 10px 20px;
+  }
+}
+
 *{
   background-color: #d1e3f1;
 	font-family:Abhaya Libre ExtraBold;
@@ -353,3 +472,5 @@
   .nav.a.button:hover {
     background-color: aquamarine;
   }
+
+  
