@@ -247,9 +247,6 @@
 	letter-spacing:0;
 }
 
-.nav.a.button:hover {
-	background-color: aquamarine;
-}
 /* For mobile devices */
 @media only screen and (max-width: 600px) {
 	body {
