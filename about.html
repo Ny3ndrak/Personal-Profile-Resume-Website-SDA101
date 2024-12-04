@@ -6,7 +6,21 @@
     <link rel="stylesheet" href="about.css" />
     <title>About Me</title>
   </head>
-  <body>        
+  <body>   
+    <script>
+      function adjustLayout() {
+          const content = document.getElementById('content');
+          if (window.innerWidth < 600) {
+              content.style.backgroundColor = 'lightblue';
+          } else if (window.innerWidth >= 600 && window.innerWidth < 1200) {
+              content.style.backgroundColor = 'lightgreen';
+          } else {
+              content.style.backgroundColor = 'lightcoral';
+          }
+      }
+      window.addEventListener('resize', adjustLayout);
+      window.addEventListener('load', adjustLayout);
+  </script>     
     <div class=hero>
         <div class="about"></div>
         <div class="img">
