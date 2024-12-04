@@ -7,6 +7,30 @@
     <link rel="stylesheet" href="home.css" />
   </head>
   <body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+    <script>
+        function adjustLayout() {
+            const content = document.getElementById('content');
+            if (window.innerWidth < 600) {
+                content.style.backgroundColor = 'lightblue';
+            } else if (window.innerWidth >= 600 && window.innerWidth < 1200) {
+                content.style.backgroundColor = 'lightgreen';
+            } else {
+                content.style.backgroundColor = 'lightcoral';
+            }
+        }
+
+        window.addEventListener('resize', adjustLayout);
+        window.addEventListener('load', adjustLayout);
+    </script>
+    
     <div class="HOME">
       <div class="overlap-wrapper">
         <div class="overlap">
@@ -54,7 +78,7 @@
               </div>
             </div>
           </div>
-          <header class="header">
+          <footer class="footer">
             <div class="text-wrapper-6">PERSONAL PROFILE
             </div>
             <div class="text-wrapper-7">
@@ -67,7 +91,7 @@
               <button><a href="profile.html">PROFILE</a></button>
             </div>
             <div class="text-wrapper-10">DOWNLOAD CV</div>
-          </header>
+          </footer>
         </div>
       </div>
     </div>
