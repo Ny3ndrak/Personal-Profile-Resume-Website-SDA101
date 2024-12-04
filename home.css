@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-@media (max-width: 767px) {
+  @media (max-width: 767px) {
   .HOME .overlap-wrapper {
       width: 100%;
       height: auto;
@@ -475,7 +474,6 @@
   }
 
   
-=======
 *{
   background-color: #d1e3f1;
 	font-family:Abhaya Libre ExtraBold;
@@ -831,4 +829,3 @@
   .nav.a.button:hover {
     background-color: aquamarine;
   }
->>>>>>> 6b0e42ed2da0b1605ff7baee06f5e400d4e59ede
